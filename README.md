@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Safee
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Object Oriented Programming and Data Structures and Algorithm in C++
-- 💞️ Software engineering student passionate about building innovative solutions and collaborating with others. Seeking exciting opportunities to contribute to open-source projects on GitHub
+- 🌱 I’m currently learning Web Development
+-  Software engineering student passionate about building innovative solutions and collaborating with others. Seeking exciting opportunities to contribute to open-source projects on GitHub
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-safee-bb5389226/
 
 <!---
