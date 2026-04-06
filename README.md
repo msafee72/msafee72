@@ -6,7 +6,6 @@
 
 ## 📫 How to reach me:
 - Email: mu.safee72@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/muhammad-safee-bb5389226/)
 
           
 <!---
