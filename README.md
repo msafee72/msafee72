@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Safee
 
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web, Android, Machine Learning, & Computer Vision.
+- 🌱 I’m currently working in Web, Android, Machine Learning, & Computer Vision.
 - 💻 Software engineering graduate passionate about building innovative solutions and collaborating with others. Seeking exciting opportunities to contribute to open-source projects on GitHub.
 
 ## 📫 How to reach me:
