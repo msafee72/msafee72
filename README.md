@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web, Android, Machine Learning, & Computer Vision.
-- 💻 Software engineering student passionate about building innovative solutions and collaborating with others. Seeking exciting opportunities to contribute to open-source projects on GitHub.
+- 💻 Software engineering graduate passionate about building innovative solutions and collaborating with others. Seeking exciting opportunities to contribute to open-source projects on GitHub.
 
 ## 📫 How to reach me:
 - Email: mu.safee72@gmail.com
